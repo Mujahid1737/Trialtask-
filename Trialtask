@@ -1,0 +1,8 @@
+first_name = "Mujahid"
+job_title = "Python Developer"
+company = "TSS private Ltd"
+
+
+print("'Hi there\nMy name is " \
++ first_name+"  \n\nI'm the  "+job_title+" of  "+company \
++ "\n\nPlease let me know if you want this position.\nCheers,\n\nNadav.'")
